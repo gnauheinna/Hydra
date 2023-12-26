@@ -6,7 +6,7 @@
 Hydra is a Windows virus that displays a message box. When you close a message box, 2 more will show up.
 
 ## Demonstration
-![Visual Design](https://github.com/gnauheinna/Hydra/blob/57e6f66585f4533151340a78ea93e188fbd083fd/images/hydra.png)
+![Visual Design](images/hydraVirus.png)
 ## How to use:
 1. Clone the repository
 2. run hydra.py
